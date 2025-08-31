@@ -1,5 +1,2 @@
 # vscode settings
 .vscode/
-
-# exclude virtuale enviroment, see requirements.txt for dependencies
-ch2-helloworld/.venv/

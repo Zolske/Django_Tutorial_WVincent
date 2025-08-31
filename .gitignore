@@ -1,5 +1,11 @@
 # vscode settings
 .vscode/
 
-# exclude virtual environment
+# virtual environment
 .venv/
+
+# compiled byte code, automaticlly recreated when django is run
+__pycache__/
+
+# database
+db.sqlite3
